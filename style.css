@@ -1,0 +1,55 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%
+
+}
+
+#topHeader{
+    margin-left: 25%;
+    font-size: 26;
+}
+
+#topHeader, h1{
+margin: 0;
+display:inline-block;
+}
+
+img{
+    width: 100;
+    height: auto;
+}
+
+nav{
+border: currentColor;
+}
+
+ul{
+    padding: 0;
+    margin-left: 20;
+    font-size: 20;
+}
+
+#sectionHeader{
+    font-size:20px;
+    color: purple;
+    text-shadow: 10px;
+
+}
+
+#articleHeader{
+    font-size: 18px;
+    color: blueviolet;
+    text-decoration: blue;
+    
+}
+
+video{
+    width: 100;
+    height: auto;
+}
+
+#class{
+    display:inline-block;
+    width: 70%;
+    vertical-align:top;
+}
